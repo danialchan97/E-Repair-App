@@ -1,0 +1,32 @@
+.footer {
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.footer a {
+  
+  display: block;
+  color:  #ffffff;
+	font: normal 25px 'Cookie', cursive;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.footer a span{
+	color:  #5383d3;
+}
+
+.footer button{
+	background:black;
+	color:white;
+	border:none;
+}
+
+.footer button:hover{
+	background:orange;
+	color:white;
+}
